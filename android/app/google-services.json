@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528560962038",
+    "project_id": "campus-dining-app",
+    "storage_bucket": "campus-dining-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528560962038:android:affd34131baab737f0efd7",
+        "android_client_info": {
+          "package_name": "edu.vassar.cmpu203.campusdining"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528560962038-e0teqqrcjilb536t4a1g7qi3u0nqutfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAp2TEVCmitpfcKeR95zsz9XHZLuM0jQWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528560962038-e0teqqrcjilb536t4a1g7qi3u0nqutfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
